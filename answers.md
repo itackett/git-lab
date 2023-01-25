@@ -38,7 +38,7 @@ Compressing objects: 100% (3/3), done.
 Writing objects: 100% (5/5), 425 bytes | 212.00 KiB/s, done.
 Total 5 (delta 0), reused 0 (delta 0)
 To https://github.com/itackett/git-lab.git
- * [new branch]      main -> main
+  [new branch]      main -> main
 Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 Answer 10:
